@@ -1,0 +1,8 @@
+.single-cart{
+    display:flex;
+    flex-direction:column;
+    gap:.6rem
+}
+.single-cart button{
+    align-self:start;
+}

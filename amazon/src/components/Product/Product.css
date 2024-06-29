@@ -1,0 +1,19 @@
+
+
+.productItem{
+    display:flex;
+    flex-direction:column;
+    gap:.6rem;
+}
+
+.cart-button{
+    display:inline-flex;
+    align-items:center;
+    gap:.6rem;
+    align-self:start;
+}
+
+.productItem img{
+    width:70%;
+}
+
